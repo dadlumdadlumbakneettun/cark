@@ -261,15 +261,6 @@ const allGames = [
     "desc": "Yeni bir bebek bakıcılığı işin var ve işler garip bir hal alıyor. Onu besle, yatmadan önce ona bir hikaye oku ve rüyalarına düşmemeye çalış. Kontrolü ne kadar süre elinde tutabilirsin?"
   },
   {
-    "name": "Escape from Yandere",
-    "type": "korku, bulmaca",
-    "playtime": "1-2 saat arası",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4081840/357a2f59ec1939f8d0025c0121e86b0f3dabf12c/header.jpg?t=1771446146",
-    "steamId": "4081840",
-    "year": 2026,
-    "desc": "Yandera sizi evinize kilitledi ve sizden aşk ilanı istiyor. Onunla kalabilir veya kaçmaya çalışabilirsiniz. Evi keşfedin, ama dikkatli olun, Yandera sizi öldürebilir."
-  },
-  {
     "name": "Psalm 2",
     "type": "Korku",
     "playtime": "1 saat altı",
@@ -369,6 +360,7 @@ const allGames = [
     "year": 2026
   },
   {
+    "[HERROR] Gas Station Case": "Gas Station Case",
     "name": "[HERROR] Gas Station Case",
     "type": "Korku",
     "playtime": "2 saat altı",
@@ -475,6 +467,33 @@ const allGames = [
     "steamId": "2430900",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430900/header.jpg?t=1753432351",
     "year": 2025
+  },
+  {
+    "name": "Tales of Fear - Episode Zero",
+    "type": "Korku",
+    "playtime": "1-2 saat arası",
+    "desc": "Gerçek ile kurgu arasındaki farkı ayırt edebilir misin? Üç kısa korku hikayesini deneyimle ve hangilerinin doğru, hangilerinin sadece hayal gücümüzün bir parçası olduğuna dair ipuçları topla. Kahramanın bakış açısına dal ve dünyanın dört bir yanından ürkütücü hikayeleri keşfet.",
+    "steamId": "4191350",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4191350/7146f23cf20f1ea447628040197fcc7e65a4e579/header.jpg?t=1791069519",
+    "year": 2026
+  },
+  {
+    "name": "BrokenLore: DON’T LIE",
+    "type": "japon korku",
+    "playtime": "2 saat üstü",
+    "desc": "BrokenLore: DON’T LIE travma, izolasyon ve algının giderek güvenilmez hâle geldiği paramparça bir gerçekliği keşfeden bir Japon psikolojik korku oyunudur.",
+    "steamId": "3886200",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3886200/ff51d128f91f4e1922011ae6f6c9e1b92366f491/header.jpg?t=1790886869",
+    "year": 2026
+  },
+  {
+    "name": "Maple Ridge",
+    "type": "Korku",
+    "playtime": "1 saat",
+    "desc": "Bir kazada karısını kaybeden Alex, her detayın ona geçmişini hatırlattığı bir banliyö evinde yapayalnız kalır. Sıradan bir akşam, kısa sürede bir dizi tuhaf ve rahatsız edici olaya dönüşür.",
+    "steamId": "4716540",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716540/3a66b5cc5ce2023125c5afcadddc198207ee7d4c/header.jpg?t=1782930309",
+    "year": 2026
   }
 ];
 
@@ -797,6 +816,15 @@ const chillGames = [
     "tags": [
       "tıklama"
     ]
+  },
+  {
+    "name": "Leaf it Alone",
+    "desc": "Nihayet, bu yaprak yığınını temizleme zamanı geldi. En son temizlediğinizden beri epey zaman geçti, bu yüzden bir saniye bile kaybetmeyin ve tırmıklama becerilerinizi paslandırmayın!",
+    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3981100/843d859123e902ca5c15ff53200c4bcb780c3304/header.jpg?t=1784878103",
+    "time": "2 saat üstü",
+    "tags": [
+      "chill"
+    ]
   }
 ];
 
@@ -808,6 +836,5 @@ const favoriteGames = [
   "Last Report",
   "Good Pizza Great Pizza",
   "FIGHT-QUEST",
-  "Tales Beyond The Tomb No Witnesses",
-  "Escape from Yandere"
+  "Tales Beyond The Tomb No Witnesses"
 ];
