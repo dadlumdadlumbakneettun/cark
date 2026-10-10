@@ -192,7 +192,7 @@ const allGames = [
     "name": "Make Good Choices",
     "type": "anomali, şans",
     "playtime": "1-2 saat arası",
-    "image": "https://i.ytimg.com/vi/MjQHaxFOLuc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAfkRFfgN840S81DppV_bdNQoY8g",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3410310/header.jpg?t=1737678394",
     "steamId": "",
     "year": 2025,
     "desc": "Sadece eve gitmeye çalışıyorsun. Sadece çeyrek mil uzaklıkta. Tek bir sokak. Ne yanlış gidebilir ki?"
