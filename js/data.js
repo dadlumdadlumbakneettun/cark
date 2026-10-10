@@ -836,5 +836,5 @@ const favoriteGames = [
   "Last Report",
   "Good Pizza Great Pizza",
   "FIGHT-QUEST",
-  "Tales Beyond The Tomb No Witnesses"
+  "Tales of Fear - Episode Zero"
 ];
